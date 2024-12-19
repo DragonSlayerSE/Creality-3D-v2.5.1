@@ -3,7 +3,7 @@ This means that you can only print from SD-card reliably .. when connecting a PC
 Also when printing from USB the tuchscreen does not know
 
 The Hotend termistor is connected on an extension board and then connected to the motherboard via the A12 SGV connector..
-the manual mentions that that as a "PT-100 Line" i dont now the exact type of thermistor but a PT-100 should give 100Ohms at 0℃ i messured about 108 Ohms at about 22℃
+the manual mentions those pins as a "PT-100 Line" i dont now the exact type of thermistor but a PT-100 should give 100Ohms at 0℃ i messured about 108 Ohms at about 22℃
 there is a resister about 770 ohms by the THB, TH1 & TH2 connectors 
 
 The Extemsion board is marked "HQPCB-2 E469747" and have the following ports
@@ -33,11 +33,7 @@ Motherboard can be flashed via USB using the Creality Slicer software, or via kl
 dmt48270c043_06wt Touchscreen: 4.3" color Landscape 480*272
 it has a Kioxia TC58BVG0S3HTAI0
 SLC NAND Flash 3.3V 1G-bit 48-Pin TSOP 
-
 a proceessor T5 dwin.com.cn n43v29.00hg08
-
-
-
 and the microsdcard slot for firmware updates
-and it also have a connector for a speeaker
+and it also have a connector for a speaker
 
